@@ -16,3 +16,7 @@ Pre-steps:
         18.5–24.9	Normal weight      0
         25.0–29.9	Pre-obesity       +1
         30.0–34.9	Obesity class I   +2
+
+Post-steps:
+  . The code shown here (AllClassification+Gender.ipynb) represents the experiment regarding the use of gender as an additional parameter to be compared to the only use of height and weight (traditional BMI formula). 
+  . The code should be adapted to the other parameters to be studied. In our case, H+W+Gender (same code here), H+W+Age (code to be adapted accordingly), H+W+Ethnicity (to be adapted), H+W+Age+Gender (to be adapted), and H+W+Age+Gender+Ethnicity. Plus the reference set Height(H)+Weight(W).
