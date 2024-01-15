@@ -20,4 +20,4 @@ Pre-steps:
 Post-steps:
   1. The code shown here (AllClassification+Gender.ipynb) represents the experiment regarding the use of gender as an additional parameter to be compared to the only use of height and weight (traditional BMI formula).
   2. The code example presented here should be adapted to the other parameters to be studied. In our case, H+W+Gender (same code here), H+W+Age (code to be adapted accordingly), H+W+Ethnicity (to be adapted), H+W+Age+Gender (to be adapted), and H+W+Age+Gender+Ethnicity. Plus the reference set Height(H)+Weight(W).
-  3. The graphics require some manual adaptation before producing the output.
+  3. The graphic shown, combining the results from all the parameters under study, required some manual adaptation before producing the output.
