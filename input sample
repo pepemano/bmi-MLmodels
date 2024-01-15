@@ -13,5 +13,9 @@ Index,Gender,Age,Ethnicity,Height,Weight,BMI,BMI_Class,BMI_Code
 11,1,45,5,177.8,76.2,24.1,Normal,0
 12,2,30,2,163.6,71.2,26.6,Overweight,1
 13,2,67,2,164.1,117.8,43.7,Obese,2
+
 ............
 ............
+............
+
+Total: 5663 rows
