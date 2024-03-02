@@ -18,6 +18,6 @@ Pre-steps:
         30.0–34.9	Obesity class I   +2
 
 Post-steps:
-  1. The code shown here (AllClassification+AGEth.ipynb) represents the experiment regarding the use of age, gender, and ethnicity as additional parameters to be compared to the only use of height and weight (traditional BMI formula).
+  1. The code shown here (ClassificationAGEth.ipynb) represents the experiment regarding the use of age, gender, and ethnicity as additional parameters to be compared to the only use of height and weight (traditional BMI formula).
   2. The code example presented here should be adapted to the other parameters to be studied. In our case, Height+Weight+Age+Gender+Ethnicity (same code here), H+W+Age (code to be adapted accordingly), H+W+Gender (to be adapted), H+W+Ethnicity (to be adapted), and H+W+Age+Gender (to be adapted). Plus the reference set Height(H)+Weight(W).
   3. The graphic shown, combining the results from all the parameters under study, required some manual adaptation before producing the output.
