@@ -23,4 +23,5 @@ Post-steps:
   3. The graphic (ClassificationAGEth.ipynb) combines the results from all the parameters under study. It requires some manual adaptation before producing the output.
 
 Published Results:
-Reinventing the Body Mass Index: A Machine Learning approach (https://www.medrxiv.org/content/10.1101/2024.04.26.24306457v1)
+Reinventing the Body Mass Index: A Machine Learning approach 
+https://www.medrxiv.org/content/10.1101/2024.04.26.24306457v1
