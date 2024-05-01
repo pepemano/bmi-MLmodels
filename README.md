@@ -21,3 +21,6 @@ Post-steps:
   1. The code (ClassificationAGEth.ipynb) represents the experiment regarding the use of age, gender, and ethnicity as additional parameters to be compared to the only use of height and weight (traditional BMI formula).
   2. The code (ClassificationAGEth.ipynb) should be adapted to the other parameters to be studied. In our case, Height+Weight+Age+Gender+Ethnicity (same code here), H+W+Age (code to be adapted accordingly), H+W+Gender (to be adapted), H+W+Ethnicity (to be adapted), and H+W+Age+Gender (to be adapted). Plus the reference set Height(H)+Weight(W).
   3. The graphic (ClassificationAGEth.ipynb) combines the results from all the parameters under study. It requires some manual adaptation before producing the output.
+
+Results (Publication):
+Reinventing the Body Mass Index: A Machine Learning approach (https://www.medrxiv.org/content/10.1101/2024.04.26.24306457v1)
